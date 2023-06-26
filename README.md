@@ -1,7 +1,7 @@
 # Ticket-Booking-App-using-GO
 
 I developed a CLI based Ticket booking application using GO programming language. This design illustrates some key concepts/data structures of GO language such as Maps, Structs, Go routines for concurrency, WaitGroup for synchronizing goroutines.
-Channels 
+
 
 Achieving concurrency is very easy in Go when compared to other languages like Java. Go creates light weight threads called "Go routines". These are cheaper and lightweight. Hundreds of thousands of of goroutines can be run without affecting the performance.
 
